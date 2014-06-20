@@ -1,0 +1,4 @@
+docker-irb
+==========
+
+irb shell
